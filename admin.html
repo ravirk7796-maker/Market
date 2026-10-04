@@ -167,6 +167,17 @@
       }
     }
 
+    if (window.location.hostname.startsWith("admin.")) {
+      const storefrontUrl = new URL(window.location.href);
+      storefrontUrl.hostname = window.location.hostname.slice("admin.".length);
+      storefrontUrl.pathname = "/";
+      storefrontUrl.search = "";
+      storefrontUrl.hash = "";
+      document.querySelectorAll(".brand, .view-shop").forEach(link => {
+        link.href = storefrontUrl.href;
+      });
+    }
+
     function resetForm() {
       form.reset();
       clearImagePreview(true);

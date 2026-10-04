@@ -1,5 +1,12 @@
 {
   "rewrites": [
+    {
+      "source": "/",
+      "has": [
+        { "type": "host", "value": "admin.arshi-knot-market.vercel.app" }
+      ],
+      "destination": "/admin.html"
+    },
     { "source": "/admin", "destination": "/admin.html" }
   ]
 }
