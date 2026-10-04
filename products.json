@@ -1,0 +1,123 @@
+[
+    {
+        "id":  1,
+        "name":  "The Everyday Crew",
+        "category":  "Knitwear",
+        "material":  "Merino wool",
+        "color":  "Moss",
+        "description":  "A relaxed everyday knit with a soft hand and an easy, generous fit.",
+        "price":  2890,
+        "tag":  "Bestseller",
+        "image":  "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  2,
+        "name":  "Cloudline Cardigan",
+        "category":  "Knitwear",
+        "material":  "Recycled wool",
+        "color":  "Oat",
+        "description":  "A soft, layerable cardigan made for cool mornings and slow weekends.",
+        "price":  3490,
+        "tag":  "New in",
+        "image":  "https://images.unsplash.com/photo-1574201635302-388dd92a4c3f?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  3,
+        "name":  "Ribbed Weekend Beanie",
+        "category":  "Accessories",
+        "material":  "Lambswool",
+        "color":  "Rust",
+        "description":  "A close-fitting rib knit that brings an extra bit of warmth outdoors.",
+        "price":  990,
+        "tag":  "",
+        "image":  "https://images.unsplash.com/photo-1788278271485-a13b37cf1ff0?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  4,
+        "name":  "Slow Morning Throw",
+        "category":  "Home",
+        "material":  "Wool blend",
+        "color":  "Fern",
+        "description":  "A generous, tactile throw for the sofa, the reading chair, or an unhurried morning.",
+        "price":  4290,
+        "tag":  "Small batch",
+        "image":  "https://images.unsplash.com/photo-1646270968752-c2cbdb8e7f73?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  5,
+        "name":  "Sunday Knit Vest",
+        "category":  "Knitwear",
+        "material":  "Cotton wool",
+        "color":  "Ecru",
+        "description":  "An easy sleeveless layer with a relaxed shape and a soft natural feel.",
+        "price":  2290,
+        "tag":  "Easy layer",
+        "image":  "https://images.unsplash.com/photo-1586250890303-622708245b2e?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  6,
+        "name":  "Soft Steps Socks",
+        "category":  "Accessories",
+        "material":  "Merino wool",
+        "color":  "Berry",
+        "description":  "Cushioned wool socks with a gentle rib and a little room to lounge.",
+        "price":  690,
+        "tag":  "",
+        "image":  "https://images.unsplash.com/photo-1571139627661-cf707929f465?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  7,
+        "name":  "The Fireside Pullover",
+        "category":  "Knitwear",
+        "material":  "Alpaca blend",
+        "color":  "Brick",
+        "description":  "A warm textured pullover with a soft drape and a comfortable everyday fit.",
+        "price":  3890,
+        "tag":  "Low stock",
+        "image":  "https://images.unsplash.com/photo-1601379327928-bedfaf9da2d0?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  8,
+        "name":  "Little Loop Scarf",
+        "category":  "Accessories",
+        "material":  "Merino wool",
+        "color":  "Sky",
+        "description":  "A soft, versatile scarf that wraps easily and wears well all season.",
+        "price":  1490,
+        "tag":  "",
+        "image":  "https://images.unsplash.com/photo-1641642231157-0849081598a2?auto=format\u0026fit=crop\u0026w=700\u0026q=80"
+    },
+    {
+        "id":  1791136755580,
+        "name":  "shirt",
+        "category":  "Home",
+        "material":  "",
+        "color":  "",
+        "description":  "bkjgbfkeajbge",
+        "price":  1000,
+        "tag":  "",
+        "image":  "https://i5.walmartimages.com/seo/Mens-Sherpa-Fleece-Lined-Plaid-Flannel-Shirts-Jackets-Casual-Thermal-Button-Up-Jackets-Winter-Warm-Work-Coat-Outwear_510bcf2d-5c11-4496-ae10-20c7a640f7df.9979b4551a77fabc71de029044b3be84.jpeg"
+    },
+    {
+        "id":  1791136877970,
+        "name":  "shirt",
+        "category":  "Accessories",
+        "material":  "",
+        "color":  "",
+        "description":  "best for boys",
+        "price":  6000,
+        "tag":  "",
+        "image":  "https://cdn.fcglcdn.com/brainbees/images/products/583x720/24166379a.webp"
+    },
+    {
+        "id":  1791137816240,
+        "name":  "priceless",
+        "category":  "Home",
+        "material":  "",
+        "color":  "",
+        "description":  "must buy this product",
+        "price":  1000,
+        "tag":  "",
+        "image":  "/uploads/1791137816240.jpg"
+    }
+]
